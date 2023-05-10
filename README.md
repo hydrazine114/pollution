@@ -78,3 +78,9 @@ Next, the cleaned data is processed and aggregated by hour, month, and region, w
 
 Then, the show_day_month_seasonality() function is defined, which takes a parameter y_axis (which can be temp, rh, wspeed_avg, wdir_avg, wdir_sd, rain_tot, press, rad, or visibility_avg) and generates a plot of the monthly and daily seasonality of that variable for the regions Morelia, Mexico, and Puerto Morelos. The plot shows a line graph of the variable values over time, with the x-axis labeled with the months of the year and the y-axis labeled with the variable name. The plot also includes vertical dashed lines to indicate the start of each month. The function allows for easy visualization of patterns in the data and can be used to identify trends and seasonal patterns in the weather data.
 
+
+# Initial data is available here:
+https://www.ruoa.unam.mx/#
+
+# Collected data is available here:
+https://drive.google.com/drive/folders/1CR5Xm-rsdNUIS6QRoXPJc1G898nM7lXN?usp=share_link
