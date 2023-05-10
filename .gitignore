@@ -1,0 +1,8 @@
+check_pollution.ipynb
+data*
+*parquet
+*md
+models
+predict*
+plots*
+.tmp
